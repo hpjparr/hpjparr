@@ -1,0 +1,19 @@
+{
+	"Tasks": [
+		{"Code":"RVW_APPLIC","Description":"Review Application","Expired":"n","Id":1},
+		{"Code":"AUD_BLDINS","Description":"Audit Building Inspection","Expired":"n","Id":2},
+		{"Code":"CON_HIRGEN","Description":"Hire General Contractor","Expired":"n","Id":3},
+		{"Code":"AUD_PRGRSS","Description":"Audit Progress","Expired":"n","Id":4},
+		{"Code":"RVW_BLDCNS","Description":"Review Building Construction","Expired":"n","Id":5},
+		{"Code":"INS_BLDFIN","Description":"Inspect Building","Expired":"n","Id":6},
+		{"Code":"INS_ELECTR","Description":"Inspect Electrical Work","Expired":"n","Id":7},
+		{"Code":"INS_PLUMBI","Description":"Inspect Plumbing","Expired":"n","Id":8},
+		{"Code":"CE_NOVI","Description":"Notice of Violation","Expired":"n","Id":9},
+		{"Code":"CE_REINSP","Description":"Violation Review","Expired":"n","Id":10},
+		{"Code":"CON_HIRELC","Description":"Hire Electrician","Expired":"y","Id":11},
+		{"Code":"CON_HIRSTR","Description":"Hire Street Crew","Expired":"n","Id":12},
+		{"Code":"NOT_OCCPNT","Description":"Notify Occupant","Expired":"n","Id":13},
+		{"Code":"NOT_BUSOWN","Description":"Notify Business Owner","Expired":"n","Id":14},
+		{"Code":"RVW_INSRES","Description":"Review Inspection Results","Expired":"n","Id":15},
+	]
+}

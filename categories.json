@@ -1,0 +1,9 @@
+{
+	"Category": [
+		{"Id":0,"Description":"Unassigned","Color":"a1a1a1"},
+		{"Id":1,"Description":"Work Order","Color":"7bb8df"},
+		{"Id":2,"Description":"Inspection","Color":"fac181"},
+		{"Id":3,"Description":"Service Request","Color":"acd492"},
+		{"Id":4,"Description":"Task Group","Color":"d67272"}
+	]
+}
